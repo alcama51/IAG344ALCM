@@ -16,4 +16,4 @@ git commit  -m "IAG344 v1"
 git branch -M main
 git remote add origin https://github.com/alcama51/IAG344ALCM.git
 git push -u origin main
-CLS
+CLScd

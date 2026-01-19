@@ -17,3 +17,8 @@ git branch -M main
 git remote add origin https://github.com/alcama51/IAG344ALCM.git
 git push -u origin main
 CLScd
+
+para crear ejecutables
+
+
+pip install pyinstaller
